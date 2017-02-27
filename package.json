@@ -8,7 +8,9 @@
     "mongodb": "^2.2.19",
     "restify": "^4.3.0"
   },
-"scripts": {"start": "node app.js"// tells the web service where the start script is    },
+"scripts": {
+"start": "node app.js"    
+},
   "devDependencies": {},
   "scripts": {
     "start": "node app.js",
